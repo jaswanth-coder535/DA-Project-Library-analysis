@@ -1,0 +1,7 @@
+# Library Book Analysis and Data Visualization System
+# Project Dependencies
+
+streamlit>=1.30.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0

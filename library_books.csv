@@ -1,0 +1,61 @@
+Book_ID,Book_Title,Author,Genre,Publication_Year,Copies_Available,Times_Borrowed,Rating
+1001,To Kill a Mockingbird,Harper Lee,Fiction,1960,8,142,4.8
+1002,1984,George Orwell,Fiction,1949,10,175,4.7
+1003,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,6,110,4.4
+1004,Pride and Prejudice,Jane Austen,Fiction,1813,7,125,4.6
+1005,The Catcher in the Rye,J.D. Salinger,Fiction,1951,5,98,4.1
+1006,Brave New World,Aldous Huxley,Fiction,1932,6,105,4.3
+1007,The Alchemist,Paulo Coelho,Fiction,1988,12,188,4.7
+1008,The Kite Runner,Khaled Hosseini,Fiction,2003,9,134,4.6
+1009,A Brief History of Time,Stephen Hawking,Science,1988,7,145,4.7
+1010,Cosmos,Carl Sagan,Science,1980,8,138,4.8
+1011,The Selfish Gene,Richard Dawkins,Science,1976,5,82,4.4
+1012,Sapiens: A Brief History of Humankind,Yuval Noah Harari,History,2011,11,195,4.8
+1013,The Origin of Species,Charles Darwin,Science,1859,4,64,4.3
+1014,Astrophysics for People in a Hurry,Neil deGrasse Tyson,Science,2017,9,122,4.5
+1015,The Gene: An Intimate History,Siddhartha Mukherjee,Science,2016,6,79,4.6
+1016,Clean Code: A Handbook of Agile Software,Robert C. Martin,Technology,2008,10,165,4.7
+1017,Introduction to Algorithms,Thomas H. Cormen,Technology,2009,8,130,4.6
+1018,Design Patterns: Elements of Reusable Object-Oriented Software,Erich Gamma,Technology,1994,5,92,4.5
+1019,Artificial Intelligence: A Modern Approach,Stuart Russell,Technology,2020,7,140,4.8
+1020,Python Crash Course,Eric Matthes,Technology,2015,12,180,4.7
+1021,The Pragmatic Programmer,Andrew Hunt,Technology,1999,9,152,4.8
+1022,Guns Germs and Steel,Jared Diamond,History,1997,6,108,4.4
+1023,The Silk Roads: A New History of the World,Peter Frankopan,History,2015,7,95,4.5
+1024,SPQR: A History of Ancient Rome,Mary Beard,History,2015,5,84,4.3
+1025,The Wright Brothers,David McCullough,History,2015,6,76,4.5
+1026,Churchill: A Life,Martin Gilbert,Biography,1991,4,58,4.4
+1027,Steve Jobs,Walter Isaacson,Biography,2011,10,172,4.7
+1028,Einstein: His Life and Universe,Walter Isaacson,Biography,2007,7,115,4.6
+1029,Long Walk to Freedom,Nelson Mandela,Biography,1994,8,128,4.8
+1030,Becoming,Michelle Obama,Biography,2018,11,164,4.7
+1031,The Diary of a Young Girl,Anne Frank,Biography,1947,9,150,4.8
+1032,Elon Musk,Ashlee Vance,Biography,2015,8,135,4.4
+1033,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery,1902,8,148,4.6
+1034,And Then There Were None,Agatha Christie,Mystery,1939,11,185,4.8
+1035,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,2005,9,139,4.5
+1036,Gone Girl,Gillian Flynn,Mystery,2012,8,126,4.3
+1037,The Da Vinci Code,Dan Brown,Mystery,2003,10,168,4.2
+1038,Big Little Lies,Liane Moriarty,Mystery,2014,7,104,4.4
+1039,The Silent Patient,Alex Michaelides,Mystery,2019,10,158,4.5
+1040,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12,192,4.8
+1041,The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,1954,10,178,4.9
+1042,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,1997,14,210,4.9
+1043,A Game of Thrones,George R.R. Martin,Fantasy,1996,8,144,4.6
+1044,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,7,118,4.7
+1045,Mistborn: The Final Empire,Brandon Sanderson,Fantasy,2006,9,132,4.8
+1046,The Way of Kings,Brandon Sanderson,Fantasy,2010,8,129,4.9
+1047,Dune,Frank Herbert,Science,1965,11,170,4.7
+1048,Deep Learning,Ian Goodfellow,Technology,2016,6,98,4.6
+1049,Atomic Habits,James Clear,Technology,2018,15,205,4.9
+1050,Educated,Tara Westover,Biography,2018,9,141,4.7
+1051,A Promised Land,Barack Obama,Biography,2020,7,112,4.5
+1052,The Code Breaker,Walter Isaacson,Biography,2021,6,88,4.6
+1053,The Midnight Library,Matt Haig,Fiction,2020,9,137,4.4
+1054,Project Hail Mary,Andy Weir,Science,2021,10,162,4.8
+1055,Klara and the Sun,Kazuo Ishiguro,Fiction,2021,6,90,4.2
+1056,Chip War: The Fight for the World's Most Critical Technology,Chris Miller,Technology,2022,8,119,4.7
+1057,The Anarchy,William Dalrymple,History,2019,5,78,4.5
+1058,Thinking Fast and Slow,Daniel Kahneman,Science,2011,8,136,4.6
+1059,The Thursday Murder Club,Richard Osman,Mystery,2020,7,109,4.3
+1060,The Priory of the Orange Tree,Samantha Shannon,Fantasy,2019,6,85,4.4
